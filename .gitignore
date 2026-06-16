@@ -1,0 +1,33 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]apre/
+/[Mm]emoryCaptures/
+/[Mm]logs/
+
+# Archivos de configuración de usuario de Unity
+/[Vv]R/[Ss]ettings.json
+
+# Archivos generados por editores (VS Code, Visual Studio, JetBrains)
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.com.unity.ide.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
