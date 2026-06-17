@@ -275,3 +275,726 @@ Received Import Request.
 Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_white.prefab using Guid(0ab7cd3e8bac6ef4b9be472fe5de0e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0c4c0cdeb3d55c82086912c1eca003d') in 0.0950001 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
 
+========================================================================
+Received Import Request.
+  Time since last request: 32.016476 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(7df7beac0aa11784492f15b3f1b869df) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(7df7beac0aa11784492f15b3f1b869df) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'ca0ef306d80888756c2f67d7f20c0560') in 0.5216648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow10.prefab
+  artifactKey: Guid(38a27599d83c553428c95896320274d0) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow10.prefab using Guid(38a27599d83c553428c95896320274d0) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'f8d87b8877124f3fcf4644e9909cabfe') in 0.1139692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 289
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/StarSparrow/Prefabs/BonusContent/Flying Insect.prefab
+  artifactKey: Guid(6807a4fbab15c3444aa44ff82bcbe872) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/BonusContent/Flying Insect.prefab using Guid(6807a4fbab15c3444aa44ff82bcbe872) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '9a9860187efae679b9d9f60843365161') in 0.044837 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/Textures
+  artifactKey: Guid(d829c543236661c45b8d4f153d7970fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/Textures using Guid(d829c543236661c45b8d4f153d7970fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5ff4fb8a308d2713c4f878bfaeeee953') in 0.1186652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/Built_in_RP/Prefabs/asteroid_belt_group_SRP_01.prefab
+  artifactKey: Guid(d013c4364aab6b1439a0365bba950554) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/Built_in_RP/Prefabs/asteroid_belt_group_SRP_01.prefab using Guid(d013c4364aab6b1439a0365bba950554) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c4cc37fe254090af67958ef657ecdc1c') in 0.1497591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_blank/rock_blank_Normal.png
+  artifactKey: Guid(2b547ce846b77f64fb7a32b897f1e7fb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_blank/rock_blank_Normal.png using Guid(2b547ce846b77f64fb7a32b897f1e7fb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4c9f047697901b37d3be534caf1abb4') in 0.1794564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/HDRP/HDRPDefaultResources/DefaultLookDevProfile.asset
+  artifactKey: Guid(93a89a561ccc612428a9d6c8f1136b79) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/HDRP/HDRPDefaultResources/DefaultLookDevProfile.asset using Guid(93a89a561ccc612428a9d6c8f1136b79) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a67b048e9bad1d413a54b3421635686') in 0.0257393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_white/rock_white_BaseColor.png
+  artifactKey: Guid(49679b00295274547a30ca18cdbdf112) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_white/rock_white_BaseColor.png using Guid(49679b00295274547a30ca18cdbdf112) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ed2f4ab9a2d162700ce0bba50de53bf3') in 0.0673934 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/URP/URPDefaultResources/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(bdb348063ebba8145b7d5f16b998e228) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/URP/URPDefaultResources/UniversalRenderPipelineAsset_Renderer.asset using Guid(bdb348063ebba8145b7d5f16b998e228) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '1f763d55f9334474e51dac72401ebab3') in 0.0217164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/rock_lod1.fbx
+  artifactKey: Guid(8e066791dd088994db56ac39d88c79f0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/rock_lod1.fbx using Guid(8e066791dd088994db56ac39d88c79f0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8bd866458af5f77c5d2eba8ba4d2fad5') in 0.1576733 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow9.prefab
+  artifactKey: Guid(b69ddbc1b5379784c872b0996311fd12) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow9.prefab using Guid(b69ddbc1b5379784c872b0996311fd12) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'f287376e62da6d013d5aa75ad6c8ff87') in 0.2450219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 293
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/URP
+  artifactKey: Guid(cc7ce57509d67614f9af455ac7edf48d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/URP using Guid(cc7ce57509d67614f9af455ac7edf48d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a7c0a40aa1e72dac231833ff04ea0abd') in 0.0894851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Plate_white.prefab
+  artifactKey: Guid(a56a46138ee9f3345bb5991f97122829) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Plate_white.prefab using Guid(a56a46138ee9f3345bb5991f97122829) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd7e069eab204e6c498369595a82581ee') in 0.0733357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow12.prefab
+  artifactKey: Guid(d9b826fbbb3615848bdc7f536dd1bb71) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow12.prefab using Guid(d9b826fbbb3615848bdc7f536dd1bb71) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'ba65978fb4622764bf3005fdeeb1d652') in 0.2676481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 202
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_snow.prefab
+  artifactKey: Guid(a73d9c340456a6146a4f277451efc324) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_snow.prefab using Guid(a73d9c340456a6146a4f277451efc324) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e264ac8351fbc1323a7e26fc6aeac889') in 0.0459837 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs
+  artifactKey: Guid(78d7b0912db99a3468425216c2986f25) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs using Guid(78d7b0912db99a3468425216c2986f25) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2785f56035779f275fc535ef642c65d2') in 0.0319035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing.prefab
+  artifactKey: Guid(68648d1973e7d9e4283b2d0b7eb3e539) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing.prefab using Guid(68648d1973e7d9e4283b2d0b7eb3e539) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'b092c5e2a1640cc5df3105feac60c2c1') in 0.0538321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/cliff_mats
+  artifactKey: Guid(90de11a40daa7464782b38fc6d6ba064) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/cliff_mats using Guid(90de11a40daa7464782b38fc6d6ba064) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2db70e85f280b19f2dc88da0fc632c02') in 0.1179995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/Textures/asteroid_field
+  artifactKey: Guid(78ae53005f7a50c43acd131c5b7d05d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/Textures/asteroid_field using Guid(78ae53005f7a50c43acd131c5b7d05d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '16fc91b4e14f2600fba40e350d98de98') in 0.0194987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_desert/rock_desert_Roughness.png
+  artifactKey: Guid(eade6a6c13e94004cbd8e16862cb5fec) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_desert/rock_desert_Roughness.png using Guid(eade6a6c13e94004cbd8e16862cb5fec) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b3c133546170775320005faa8edb6e6') in 0.0944566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/3D Samples/Cutscene.unity
+  artifactKey: Guid(9bc26477942687f41b51df397272e2b8) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/3D Samples/Cutscene.unity using Guid(9bc26477942687f41b51df397272e2b8) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter)Opening scene 'Assets/Samples/Cinemachine/3.1.7/3D Samples/Cutscene.unity additively'
+Loaded scene 'Assets/Samples/Cinemachine/3.1.7/3D Samples/Cutscene.unity'
+	Deserialize:            64.974 ms
+	Integration:            710.309 ms
+	Integration of assets:  0.114 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   775.402 ms
+ -> (artifact id: 'e3cc3faaf4c3d5e964911e76d202ba73') in 0.9518812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 208
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01
+  artifactKey: Guid(8d794105b7b9207448c76a52a9c6f020) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01 using Guid(8d794105b7b9207448c76a52a9c6f020) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '15afdfa765ed5eabb1ce743f0047b9d7') in 0.0237758 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/3D Samples/Lock-on Target.unity
+  artifactKey: Guid(783c9fbf55d5840e29956295885dd09c) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/3D Samples/Lock-on Target.unity using Guid(783c9fbf55d5840e29956295885dd09c) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter)Opening scene 'Assets/Samples/Cinemachine/3.1.7/3D Samples/Lock-on Target.unity additively'
+Loaded scene 'Assets/Samples/Cinemachine/3.1.7/3D Samples/Lock-on Target.unity'
+	Deserialize:            7.754 ms
+	Integration:            125.104 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       1.142 ms
+	Total Operation Time:   134.007 ms
+ -> (artifact id: '48a1b917c09cb47f022d8a6619d18dc6') in 0.2001564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 328
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/URP/Prefabs_URP/asteroid_belt_group_URP_01.prefab
+  artifactKey: Guid(40eef8e8ad2ef754e8ff32abf724db72) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/URP/Prefabs_URP/asteroid_belt_group_URP_01.prefab using Guid(40eef8e8ad2ef754e8ff32abf724db72) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'c903f4ff17f1d3b27b80305c94ac184c') in 0.0553721 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 50
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_white/plate_white_Roughness.png
+  artifactKey: Guid(49e9b9f91c5ed8b4c838930315cf8e13) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_white/plate_white_Roughness.png using Guid(49e9b9f91c5ed8b4c838930315cf8e13) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2011d33c7a22dd4b491edc37307733d6') in 0.0883144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_desert/cliff_desert_BaseColor.png
+  artifactKey: Guid(cf6d2e2e10cff6e48817d2832d9950fa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_desert/cliff_desert_BaseColor.png using Guid(cf6d2e2e10cff6e48817d2832d9950fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '55488e4e3e6eea8d39f59e2c70007b04') in 0.0776998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_white/plate_white_Normal.png
+  artifactKey: Guid(778de3af1bb69474b87f37feab879398) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_white/plate_white_Normal.png using Guid(778de3af1bb69474b87f37feab879398) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8074bb2f66d9b595d72326f268a91688') in 0.118641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_infernal/cliff_infernal_Roughness.png
+  artifactKey: Guid(8856505d93ec201419622bb2cb6a3c23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_infernal/cliff_infernal_Roughness.png using Guid(8856505d93ec201419622bb2cb6a3c23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '617b9e58509b490d94a8718554600d8c') in 0.0723554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_desert
+  artifactKey: Guid(1923c10dd94d8074ea9203a3b4d90c4c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_desert using Guid(1923c10dd94d8074ea9203a3b4d90c4c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a31dc39c52b54aed96bfbdbf2982c002') in 0.0236138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/cliff_lod0.fbx
+  artifactKey: Guid(efcda619361704743bf459e25c07d256) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/cliff_lod0.fbx using Guid(efcda619361704743bf459e25c07d256) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5e8320b9fa50f1593e3983e4d4c4052d') in 0.1868704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_desert/cliff_desert_Normal.png
+  artifactKey: Guid(bec44dd4477d77344aeb3c5a398b8d83) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_desert/cliff_desert_Normal.png using Guid(bec44dd4477d77344aeb3c5a398b8d83) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd662d50be119a35f5c8bedaf528edfe8') in 0.0842808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/StarSparrow/Prefabs/BonusContent/PolygonSpaceship/StarSparrow_Wing_1_Mirrored_LP_Red.prefab
+  artifactKey: Guid(ead3ebac099823941bb3128d6fd11249) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/BonusContent/PolygonSpaceship/StarSparrow_Wing_1_Mirrored_LP_Red.prefab using Guid(ead3ebac099823941bb3128d6fd11249) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'f0d1e45c441f33c0e98038a45b7df0d9') in 0.1266107 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_snow
+  artifactKey: Guid(81f23625f4c26e74da36157928265f71) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_snow using Guid(81f23625f4c26e74da36157928265f71) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5e77081ab917bf8acc8582bc0a7f1731') in 0.0967826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/CapsuleCar.prefab
+  artifactKey: Guid(1ae780fa68e1a2d4fbf8ccd042067f66) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/CapsuleCar.prefab using Guid(1ae780fa68e1a2d4fbf8ccd042067f66) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'c012966773bc227dc008cb6341572b1e') in 0.051829 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 81
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow19.prefab
+  artifactKey: Guid(fffe62ec194d0944ab13a6eea990288b) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow19.prefab using Guid(fffe62ec194d0944ab13a6eea990288b) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '323ed319b170bee46528dcd51e9f4c69') in 0.0753359 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 207
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Cliff_ice.prefab
+  artifactKey: Guid(c8914b7d9f5da7e4587685217e4e858b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Cliff_ice.prefab using Guid(c8914b7d9f5da7e4587685217e4e858b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a7977179b097f2865bafe952e675062e') in 0.0456127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Plate_basic.prefab
+  artifactKey: Guid(f54270e217750484e850f12682bb6728) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Plate_basic.prefab using Guid(f54270e217750484e850f12682bb6728) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd82a155784d7b82d306ceb55736dd38') in 0.0497171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/HDRP/HDRPDefaultResources/Foliage Diffusion Profile.asset
+  artifactKey: Guid(1976b76acd11e0b4594629108629a6de) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/HDRP/HDRPDefaultResources/Foliage Diffusion Profile.asset using Guid(1976b76acd11e0b4594629108629a6de) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '0dca0d82763396eacd8c2b55e5d94440') in 0.042303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Scenes/DemoScene.unity
+  artifactKey: Guid(ca7fc5dbce2b05447ab107f1f7e26f1e) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Scenes/DemoScene.unity using Guid(ca7fc5dbce2b05447ab107f1f7e26f1e) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter)Opening scene 'Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Scenes/DemoScene.unity additively'
+Loaded scene 'Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Scenes/DemoScene.unity'
+	Deserialize:            9.865 ms
+	Integration:            90.535 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.075 ms
+	Total Operation Time:   100.479 ms
+ -> (artifact id: 'dc2ff269e37f0e1309c1ed029dfcc78d') in 0.4257281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 794
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_snow/rock_snow_Normal.png
+  artifactKey: Guid(a702d92d051adbf4291ae490c20babda) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_snow/rock_snow_Normal.png using Guid(a702d92d051adbf4291ae490c20babda) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2910471ac1fea93ad90d92780f23646b') in 0.1270401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/Simple Room 2D.prefab
+  artifactKey: Guid(083208d2392614ed684d6eeda5e44908) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/Simple Room 2D.prefab using Guid(083208d2392614ed684d6eeda5e44908) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '5eb06a1ed8ed49df934b778f3a5b9dd2') in 0.1527681 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/rock_mats/Rock_desert.mat
+  artifactKey: Guid(d5bb094d55d0e154cb1079df7cf0467b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/rock_mats/Rock_desert.mat using Guid(d5bb094d55d0e154cb1079df7cf0467b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e48567881406268e75f44988e2836fab') in 0.4487561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_snow/rock_snow_Roughness.png
+  artifactKey: Guid(d52784325006b1a42969134772cfa37b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_snow/rock_snow_Roughness.png using Guid(d52784325006b1a42969134772cfa37b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '17092645725b5e9a90eadccbcd8ed502') in 0.2179249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow26.prefab
+  artifactKey: Guid(df85d535dc9225c4e92e5daa650b400b) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow26.prefab using Guid(df85d535dc9225c4e92e5daa650b400b) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'c6d4074ac2f4357218e6e7acbf33e99c') in 0.1764657 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 237
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_blank/cliff_blank_BaseColor.png
+  artifactKey: Guid(1fbe1f8820a3e8a479df82ce8577c127) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_blank/cliff_blank_BaseColor.png using Guid(1fbe1f8820a3e8a479df82ce8577c127) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '13040369cde2a21f8a74f4f85fabcb4b') in 0.0816907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/StarSparrow/Prefabs/Examples/StarSparrow19.prefab
+  artifactKey: Guid(fa43056480667f241aecfe7f65a3b0dd) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Examples/StarSparrow19.prefab using Guid(fa43056480667f241aecfe7f65a3b0dd) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '5d912aa0778da86a01dbdc8a1e334cdb') in 0.1492905 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_fancy/cliff_fancy_Roughness.png
+  artifactKey: Guid(b5c1b19c07c813e40bb39e44ca1af659) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_fancy/cliff_fancy_Roughness.png using Guid(b5c1b19c07c813e40bb39e44ca1af659) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '79fda0a75e147dfb1b17fffd3e21692d') in 0.1447492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_snow/cliff_snow_Roughness.png
+  artifactKey: Guid(e4a839e0fe199c84bb71c8582961c9a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_snow/cliff_snow_Roughness.png using Guid(e4a839e0fe199c84bb71c8582961c9a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '37aba41c5e4d821864ee9688eeea9b79') in 0.1792733 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_infernal.prefab
+  artifactKey: Guid(75baa537fa69bfd45ab1731ba055cc0d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_infernal.prefab using Guid(75baa537fa69bfd45ab1731ba055cc0d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '10d454b5e9642fbed6cb2e104db850c5') in 0.0869807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Cliff_blank.prefab
+  artifactKey: Guid(7ddcc192ae408004e90098ce35410e96) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Cliff_blank.prefab using Guid(7ddcc192ae408004e90098ce35410e96) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3464808eadce09ac5da3c163129abe6d') in 0.0944357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_fancy/plate_fancy_Normal.png
+  artifactKey: Guid(61495f374766ba343bb26f32305604d4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_fancy/plate_fancy_Normal.png using Guid(61495f374766ba343bb26f32305604d4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '35adb325d3a921ee758b051be7a8f1fb') in 0.1054711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/Checkerboard Stage.prefab
+  artifactKey: Guid(c97e1248c10cd3549b3d18c1eb1c3722) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/Checkerboard Stage.prefab using Guid(c97e1248c10cd3549b3d18c1eb1c3722) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'c170699da3581aada77274ea01c02c19') in 0.1521061 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/StarSparrow/Prefabs/Modules/StarSparrow_Core.prefab
+  artifactKey: Guid(af02f4c9657b3244d8afdbb272e74d19) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modules/StarSparrow_Core.prefab using Guid(af02f4c9657b3244d8afdbb272e74d19) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'd479d53466f622489b8f644d18a156b3') in 0.0673887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_forest/plate_forest_Roughness.png
+  artifactKey: Guid(35ecd7e8faf86c64f93237f599997599) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_forest/plate_forest_Roughness.png using Guid(35ecd7e8faf86c64f93237f599997599) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f4c5c8b29066b81e1838002a36a8db38') in 0.1501668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_infernal/plate_infernal_Normal.png
+  artifactKey: Guid(43ee63aa92af5af48a72729ffecfc664) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_infernal/plate_infernal_Normal.png using Guid(43ee63aa92af5af48a72729ffecfc664) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '013500b06a07ddeb1d3b9e6522a5e406') in 0.1437899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/DinV/Dynamic Space Background
+  artifactKey: Guid(cfbbfb20b2395ec48ba47f1f035266d3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/DinV/Dynamic Space Background using Guid(cfbbfb20b2395ec48ba47f1f035266d3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aeb17f60ba0223a0ef1d6bdf8a7f5c25') in 0.0491027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/Textures/asteroid_field/asteroid_field_group_AO.png
+  artifactKey: Guid(d9e7d07ec22e61b47be7a08b7d970c70) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/Textures/asteroid_field/asteroid_field_group_AO.png using Guid(d9e7d07ec22e61b47be7a08b7d970c70) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '40789e60eaa94bc048b0d28e7b693f7c') in 0.1854149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_forest.prefab
+  artifactKey: Guid(b21ceff665c3ea646a848cf30bf52d19) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_forest.prefab using Guid(b21ceff665c3ea646a848cf30bf52d19) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '82e1d70100dddc03a9d5c7a708d43d70') in 0.0557113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_forest/cliff_forest_Roughness.png
+  artifactKey: Guid(e453499dddbaadf4894229c21a11382c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_forest/cliff_forest_Roughness.png using Guid(e453499dddbaadf4894229c21a11382c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '49a9dfa854c2170095fac18d042b2711') in 0.1441993 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/StarSparrow/Prefabs/Examples/StarSparrow4.prefab
+  artifactKey: Guid(d1ff16837863c9f4c8b78a5697ebf086) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Examples/StarSparrow4.prefab using Guid(d1ff16837863c9f4c8b78a5697ebf086) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'b70ce3c5d07c72d527742651e3048fd5') in 0.1382623 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 151
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures
+  artifactKey: Guid(b46a68a93e818f14e877390c479a5723) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures using Guid(b46a68a93e818f14e877390c479a5723) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '19037fe636ad2e2798fca285a19cfbe2') in 0.3208793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/Portal.prefab
+  artifactKey: Guid(1f96a4357fa88664aa5acb8a2ef296b6) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/Shared Assets/Prefabs/Portal.prefab using Guid(1f96a4357fa88664aa5acb8a2ef296b6) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '7f4916b42cac2cc0c290bd930bf4dc77') in 0.0788739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/rock_lod2.fbx
+  artifactKey: Guid(4da20bd6f2eb00d4084bcf04aa33c908) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/rock_lod2.fbx using Guid(4da20bd6f2eb00d4084bcf04aa33c908) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0371b9fae053ff6b997c531f053bdcdf') in 0.0746502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Cliff_fancy.prefab
+  artifactKey: Guid(bec839f885376304c9a7862bd01f8cbb) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Cliff_fancy.prefab using Guid(bec839f885376304c9a7862bd01f8cbb) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'cf5c6c38ba18caa5995795adb47c9e38') in 0.058497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 61
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_fancy/rock_fancy_Roughness.png
+  artifactKey: Guid(25f050838f5b71f42ac10eccf4bca2ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_fancy/rock_fancy_Roughness.png using Guid(25f050838f5b71f42ac10eccf4bca2ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd016f35fdd7668473029c8548610fefe') in 0.1164889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_infernal.prefab
+  artifactKey: Guid(75baa537fa69bfd45ab1731ba055cc0d) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Prefabs/Rock_infernal.prefab using Guid(75baa537fa69bfd45ab1731ba055cc0d) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'f11f0fec910d56abb7c31316ee72dce2') in 0.1009174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 61
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/M2 - Scripts/MovePlayer.cs
+  artifactKey: Guid(f9215648d942bbe4aad2287768ab40cd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/M2 - Scripts/MovePlayer.cs using Guid(f9215648d942bbe4aad2287768ab40cd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61d3a006b2f4854bae6f57f3e436b79c') in 0.0585977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/StarSparrow/Prefabs/Examples/StarSparrow20.prefab
+  artifactKey: Guid(8f832d48ca93ed346860110453bd1801) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Examples/StarSparrow20.prefab using Guid(8f832d48ca93ed346860110453bd1801) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '56c7131e66fcc1e6380fd86dda688ed7') in 0.1253448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 97
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_forest
+  artifactKey: Guid(66e564da87711e541b25149dd788529f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_forest using Guid(66e564da87711e541b25149dd788529f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3f2c3edf52777ee596a45578e64119f9') in 0.1101389 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_fancy/rock_fancy_Emissive.png
+  artifactKey: Guid(ae944f7d8a04a234c82ae9fac99eacf6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_fancy/rock_fancy_Emissive.png using Guid(ae944f7d8a04a234c82ae9fac99eacf6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '526432ec8a592a88de24b581901e72c2') in 0.0720031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_white
+  artifactKey: Guid(b0576f6125d9ac54a86269c1b3b47d79) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_white using Guid(b0576f6125d9ac54a86269c1b3b47d79) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b3ed3ce8b19836b9145472ae0633222b') in 0.2044807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/cliff_mats/Cliff_white.mat
+  artifactKey: Guid(3dde938afed7d6f428a43d2983f7313f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/cliff_mats/Cliff_white.mat using Guid(3dde938afed7d6f428a43d2983f7313f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '427877e5a43eb154a7ecc1da8f6173d0') in 0.390354 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_basic
+  artifactKey: Guid(b37b3ceeed5e45f4fad574a71817b0cc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/rock_textures/tex_basic using Guid(b37b3ceeed5e45f4fad574a71817b0cc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2673ebed0e559f6b9dc16aac15765ca6') in 0.0330035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/cliff_lod3.fbx
+  artifactKey: Guid(add1156515eccac498b699612fe5d2cf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Meshes/cliff_lod3.fbx using Guid(add1156515eccac498b699612fe5d2cf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b97fcfc9fae8fd3302741268eb7658e3') in 0.0568854 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_desert/plate_desert_Normal.png
+  artifactKey: Guid(3955207282a7c8747b68b01fdb470a85) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures/tex_desert/plate_desert_Normal.png using Guid(3955207282a7c8747b68b01fdb470a85) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '49c6d5d635ec9678687939ee79ca896d') in 0.0929004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/StarSparrow/Prefabs/Examples/StarSparrow8.prefab
+  artifactKey: Guid(9ecf15104eac6db478d10ee9693e43eb) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Examples/StarSparrow8.prefab using Guid(9ecf15104eac6db478d10ee9693e43eb) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'ab3fc4f8cdc6a28128f2bcc463010d87') in 0.0515496 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 70
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/URP/Materials_URP
+  artifactKey: Guid(9cbe971ca12dfb940bf8bbb7f68c2e9d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/URP/Materials_URP using Guid(9cbe971ca12dfb940bf8bbb7f68c2e9d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f3f4643b2dbe91e4ff0240b5a363fe25') in 0.0244567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/URP/Materials_URP/asteroids_ mat_URP_01 1.mat
+  artifactKey: Guid(f996659599dd674468ef276955902366) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/URP/Materials_URP/asteroids_ mat_URP_01 1.mat using Guid(f996659599dd674468ef276955902366) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cee18a84df085f8abc8fa05e92cb78ad') in 0.0581866 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures
+  artifactKey: Guid(d8c6867039feb194a9d9604650f29b2e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/plate_textures using Guid(d8c6867039feb194a9d9604650f29b2e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2aa3501313da001585672e9fa6b3707f') in 0.0264898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/3D_Sci-fi_asteroid_belt_group_01/demo_scene/demo_scene_HDRP.unity
+  artifactKey: Guid(05106d52df5708a40bade8dd81791012) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/3D_Sci-fi_asteroid_belt_group_01/demo_scene/demo_scene_HDRP.unity using Guid(05106d52df5708a40bade8dd81791012) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '825ab864e245eb21fdc142a7614653a5') in 0.0384902 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/TerrainData_2b527255-950d-4322-b05f-470ee1442cb6.asset
+  artifactKey: Guid(7342c459d7bfed7489b331d84903b145) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/TerrainData_2b527255-950d-4322-b05f-470ee1442cb6.asset using Guid(7342c459d7bfed7489b331d84903b145) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: '973ebaad9a0a1b31de8653d26c603090') in 0.1229901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/plate_mats/Plate_desert.mat
+  artifactKey: Guid(42cf87c7ccceb204f9e0ebfe843a70be) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Materials/plate_mats/Plate_desert.mat using Guid(42cf87c7ccceb204f9e0ebfe843a70be) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a4431973b134c7b86e93fe3454732442') in 0.2816351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_white/cliff_white_Normal.png
+  artifactKey: Guid(82fbff1839c9f8042999bd17acf3d722) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Stylized Rock Pack - 8 styles, 3 shapes, LODs, PBR/Textures/cliff_textures/tex_white/cliff_white_Normal.png using Guid(82fbff1839c9f8042999bd17acf3d722) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'adfc7d7206114eab04d936d15fc35016') in 0.1004968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Samples/Cinemachine/3.1.7/3D Samples/Brain Update Modes.unity
+  artifactKey: Guid(b650d2f163fd2e24cbb94d43c37cc8ef) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Samples/Cinemachine/3.1.7/3D Samples/Brain Update Modes.unity using Guid(b650d2f163fd2e24cbb94d43c37cc8ef) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter)Opening scene 'Assets/Samples/Cinemachine/3.1.7/3D Samples/Brain Update Modes.unity additively'
+Loaded scene 'Assets/Samples/Cinemachine/3.1.7/3D Samples/Brain Update Modes.unity'
+	Deserialize:            25.929 ms
+	Integration:            45.972 ms
+	Integration of assets:  0.014 ms
+	Thread Wait Time:       0.044 ms
+	Total Operation Time:   71.959 ms
+ -> (artifact id: '88ad0489d44bbbc47ff984e34f67d9da') in 0.2347526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 138
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow28.prefab
+  artifactKey: Guid(1ec10f8758081fa4da4be623ea8793a1) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/StarSparrow/Prefabs/Modular Examples/StarSparrow28.prefab using Guid(1ec10f8758081fa4da4be623ea8793a1) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'e7ad379551cc99d44253a8c116796ac0') in 0.0874778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 210
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (1.9 MB). Loaded Objects now: 4438.
+Memory consumption went from 197.1 MB to 195.2 MB.
+Total: 98.804100 ms (FindLiveObjects: 0.339300 ms CreateObjectMapping: 0.121400 ms MarkObjects: 97.726800 ms  DeleteObjects: 0.613900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: balancing worker count downwards
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

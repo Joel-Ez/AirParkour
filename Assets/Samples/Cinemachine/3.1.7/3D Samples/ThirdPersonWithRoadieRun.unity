@@ -1963,8 +1963,6 @@ MonoBehaviour:
       Owner: {fileID: 3967396177643371942}
       Enabled: 1
       Input:
-        InputAction: {fileID: 0}
-        Gain: 1
         LegacyInput: Cancel
         LegacyGain: 1
         CancelDeltaTime: 0
@@ -1972,8 +1970,6 @@ MonoBehaviour:
       Driver:
         AccelTime: 0
         DecelTime: 0
-  PlayerIndex: -1
-  AutoEnableInputs: 1
 --- !u!136 &6732398861996594763
 CapsuleCollider:
   m_ObjectHideFlags: 0

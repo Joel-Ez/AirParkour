@@ -1851,8 +1851,6 @@ MonoBehaviour:
       Owner: {fileID: 3962553462265629327}
       Enabled: 1
       Input:
-        InputAction: {fileID: -1608118824973676762, guid: 1d6e640e716dc4ff6989b73d02023f2b, type: 3}
-        Gain: 1
         LegacyInput: Fire3
         LegacyGain: 1
         CancelDeltaTime: 0
@@ -1860,8 +1858,6 @@ MonoBehaviour:
       Driver:
         AccelTime: 0
         DecelTime: 0
-  PlayerIndex: -1
-  AutoEnableInputs: 1
 --- !u!1 &6569649350376346802
 GameObject:
   m_ObjectHideFlags: 0
@@ -2217,8 +2213,6 @@ MonoBehaviour:
       Owner: {fileID: 2786911513590003854}
       Enabled: 1
       Input:
-        InputAction: {fileID: 0}
-        Gain: 1
         LegacyInput: Cancel
         LegacyGain: 1
         CancelDeltaTime: 0
@@ -2226,8 +2220,6 @@ MonoBehaviour:
       Driver:
         AccelTime: 0
         DecelTime: 0
-  PlayerIndex: -1
-  AutoEnableInputs: 1
 --- !u!1001 &8603031134213395807
 PrefabInstance:
   m_ObjectHideFlags: 0
