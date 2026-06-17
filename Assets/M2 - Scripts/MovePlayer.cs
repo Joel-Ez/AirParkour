@@ -21,6 +21,5 @@ public class MovePlayer : MonoBehaviour
         float roateX = -vertical * TiltAngleUp;
         float roateZ = -horizontal * TiltAngleSide;
         transform.rotation = Quaternion.Euler(roateX, 0, roateZ);
-
     }
 }
