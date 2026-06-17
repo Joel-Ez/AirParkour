@@ -2,7 +2,7 @@ Using pre-set license
 Built from '6000.0/respin/6000.0.60f1-f02d6f9f9009' branch; Version is '6000.0.60f1 (61dfb374e36f) revision 6414259'; Using compiler version '193933523'; Build Type 'Release'
 OS: 'Windows 11  (10.0.26200) 64bit Core' Language: 'en' Physical Memory: 32117 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2026-06-16T17:29:34Z
+Date: 2026-06-17T00:28:39Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\Unity.exe
@@ -16,7 +16,7 @@ C:/Users/joell/OneDrive/Documenten/J3Dez +/9 Devs/3 Games/AirParkour
 -logFile
 Logs/AssetImportWorker7.log
 -srvPort
-58730
+59637
 -job-worker-count
 10
 -background-job-worker-count
@@ -62,12 +62,12 @@ C:/Users/joell/OneDrive/Documenten/J3Dez +/9 Devs/3 Games/AirParkour
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [28352]  Target information:
+Player connection [31472]  Target information:
 
-Player connection [28352]  * "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 455638984 [EditorId] 455638984 [Version] 1048832 [Id] WindowsEditor(7,J3Dez) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [31472]  * "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 2262935 [EditorId] 2262935 [Version] 1048832 [Id] WindowsEditor(7,J3Dez) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28352] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [28352] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [31472] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [31472] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 10
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -95,335 +95,187 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56040
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.010969 seconds.
-- Loaded All Assemblies, in  1.025 seconds
+Registered in 0.010690 seconds.
+- Loaded All Assemblies, in  0.688 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 654 ms
+Android Extension - Scanning For ADB Devices 655 ms
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.532 seconds
-Domain Reload Profiling: 2552ms
-	BeginReloadAssembly (372ms)
+- Finished resetting the current domain, in  1.402 seconds
+Domain Reload Profiling: 2084ms
+	BeginReloadAssembly (231ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (75ms)
-	RebuildNativeTypeToScriptingClass (29ms)
-	initialDomainReloadingComplete (131ms)
-	LoadAllAssembliesAndSetupDomain (412ms)
-		LoadAssemblies (355ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (93ms)
+	LoadAllAssembliesAndSetupDomain (284ms)
+		LoadAssemblies (225ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (404ms)
-			TypeCache.Refresh (400ms)
-				TypeCache.ScanAssembly (374ms)
+		AnalyzeDomain (279ms)
+			TypeCache.Refresh (276ms)
+				TypeCache.ScanAssembly (256ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (1533ms)
+	FinalizeReload (1403ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1447ms)
+		SetupLoadedEditorAssemblies (1334ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (874ms)
-			SetLoadedEditorAssemblies (7ms)
-			BeforeProcessingInitializeOnLoad (147ms)
-			ProcessInitializeOnLoadAttributes (300ms)
-			ProcessInitializeOnLoadMethodAttributes (118ms)
+			InitializePlatformSupportModulesInManaged (831ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (125ms)
+			ProcessInitializeOnLoadAttributes (248ms)
+			ProcessInitializeOnLoadMethodAttributes (120ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 ========================================================================
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.868 seconds
+- Loaded All Assemblies, in  1.112 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.588 seconds
-Domain Reload Profiling: 1450ms
-	BeginReloadAssembly (266ms)
+- Finished resetting the current domain, in  1.070 seconds
+Domain Reload Profiling: 2176ms
+	BeginReloadAssembly (311ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (8ms)
+		DisableScriptedObjects (9ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (58ms)
-	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (62ms)
-	LoadAllAssembliesAndSetupDomain (457ms)
-		LoadAssemblies (469ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (66ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (635ms)
+		LoadAssemblies (543ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (156ms)
-			TypeCache.Refresh (120ms)
-				TypeCache.ScanAssembly (107ms)
-			BuildScriptInfoCaches (23ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (588ms)
+		AnalyzeDomain (265ms)
+			TypeCache.Refresh (185ms)
+				TypeCache.ScanAssembly (167ms)
+			BuildScriptInfoCaches (56ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1071ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (448ms)
+		SetupLoadedEditorAssemblies (675ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (22ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (142ms)
-			ProcessInitializeOnLoadAttributes (218ms)
-			ProcessInitializeOnLoadMethodAttributes (56ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (194ms)
+			ProcessInitializeOnLoadAttributes (348ms)
+			ProcessInitializeOnLoadMethodAttributes (94ms)
+			AfterProcessingInitializeOnLoad (11ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
-WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+		AwakeInstancesAfterBackupRestoration (13ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 3125 unused Assets / (3.3 MB). Loaded Objects now: 3675.
-Memory consumption went from 105.9 MB to 102.6 MB.
-Total: 8.411000 ms (FindLiveObjects: 0.335900 ms CreateObjectMapping: 0.118500 ms MarkObjects: 5.708600 ms  DeleteObjects: 2.246300 ms)
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3533 unused Assets / (3.3 MB). Loaded Objects now: 4235.
+Memory consumption went from 109.0 MB to 105.7 MB.
+Total: 9.868900 ms (FindLiveObjects: 1.047200 ms CreateObjectMapping: 0.397900 ms MarkObjects: 6.390100 ms  DeleteObjects: 2.031600 ms)
 
 ========================================================================
 Received Prepare
-WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 111 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 13 unused Assets / (1.8 MB). Loaded Objects now: 3795.
-Memory consumption went from 125.1 MB to 123.3 MB.
-Total: 6.152300 ms (FindLiveObjects: 0.235100 ms CreateObjectMapping: 0.078400 ms MarkObjects: 5.374800 ms  DeleteObjects: 0.461600 ms)
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3532 unused Assets / (3.0 MB). Loaded Objects now: 4236.
+Memory consumption went from 108.0 MB to 105.0 MB.
+Total: 12.359900 ms (FindLiveObjects: 0.550000 ms CreateObjectMapping: 0.246000 ms MarkObjects: 8.768000 ms  DeleteObjects: 2.792700 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.500 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.609 seconds
+Domain Reload Profiling: 5082ms
+	BeginReloadAssembly (684ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (115ms)
+	RebuildCommonClasses (154ms)
+	RebuildNativeTypeToScriptingClass (44ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (1484ms)
+		LoadAssemblies (1469ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (408ms)
+			TypeCache.Refresh (26ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (321ms)
+			ResolveRequiredComponents (48ms)
+	FinalizeReload (2610ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1979ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (50ms)
+			SetLoadedEditorAssemblies (14ms)
+			BeforeProcessingInitializeOnLoad (701ms)
+			ProcessInitializeOnLoadAttributes (1000ms)
+			ProcessInitializeOnLoadMethodAttributes (190ms)
+			AfterProcessingInitializeOnLoad (24ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (55ms)
 Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 13 unused Assets / (1.8 MB). Loaded Objects now: 3795.
-Memory consumption went from 116.5 MB to 114.7 MB.
-Total: 7.521400 ms (FindLiveObjects: 0.304900 ms CreateObjectMapping: 0.087600 ms MarkObjects: 6.424800 ms  DeleteObjects: 0.701900 ms)
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3532 unused Assets / (3.0 MB). Loaded Objects now: 4250.
+Memory consumption went from 123.6 MB to 120.5 MB.
+Total: 26.183200 ms (FindLiveObjects: 1.107000 ms CreateObjectMapping: 1.710400 ms MarkObjects: 18.739800 ms  DeleteObjects: 4.623300 ms)
 
-Prepare: number of updated asset objects reloaded= 1
-========================================================================
-Received Import Request.
-  Time since last request: 4046.472050 seconds.
-  path: Assets/New Universal Render Pipeline Asset_Renderer.asset
-  artifactKey: Guid(e744a6bac543eeb418d2515ff1fed434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Universal Render Pipeline Asset_Renderer.asset using Guid(e744a6bac543eeb418d2515ff1fed434) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a27af5419fdd0838c01b0e324bf51680') in 0.0568099 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/StarSparrow/Materials/BonusContent/Missile.mat
-  artifactKey: Guid(30d351457dfac9d40a8b07e6426fd177) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/BonusContent/Missile.mat using Guid(30d351457dfac9d40a8b07e6426fd177) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5d89187550d67880c04fcc6bc7490590') in 0.4132279 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/StarSparrow/Materials/Colorize/StarSparrow_Colorize.mat
-  artifactKey: Guid(3770b71d67e66f44181678f8632913c6) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/Colorize/StarSparrow_Colorize.mat using Guid(3770b71d67e66f44181678f8632913c6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e97dd27eaba6f3c3758953e938a0489c') in 0.0709512 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat
-  artifactKey: Guid(82c97815f01775d4899d78255a373dfe) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat using Guid(82c97815f01775d4899d78255a373dfe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '31431974624a98d35bb716b584130714') in 0.0238866 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat
-  artifactKey: Guid(cb69702e662a4114aa3a332d2da74996) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat using Guid(cb69702e662a4114aa3a332d2da74996) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c8f21adf6e9a47490ebc901be7903e1f') in 0.0309412 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/StarSparrow/Materials/BonusContent/ColorsAtlas.mat
-  artifactKey: Guid(00eaf01308024044aaffab04875e1397) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/BonusContent/ColorsAtlas.mat using Guid(00eaf01308024044aaffab04875e1397) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a10eb4df6b51e65c8f3928fc55fd96b8') in 0.0151935 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000065 seconds.
-  path: Assets/StarSparrow/Materials/StarSparrow_Green.mat
-  artifactKey: Guid(138dd97cb63790543aebb7ab1036fcb7) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/StarSparrow_Green.mat using Guid(138dd97cb63790543aebb7ab1036fcb7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6360981d6499a50797006cb4b07662a0') in 0.0402697 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/StarSparrow/Materials/Extra/StarSparrow_Cyan.mat
-  artifactKey: Guid(330bedba310e2284aab3841c2cde6780) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/Extra/StarSparrow_Cyan.mat using Guid(330bedba310e2284aab3841c2cde6780) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '893ca445321a145a575eec3664856dc4') in 0.0468721 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/DefaultVolumeProfile.asset
-  artifactKey: Guid(7df7beac0aa11784492f15b3f1b869df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DefaultVolumeProfile.asset using Guid(7df7beac0aa11784492f15b3f1b869df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1d318a1afc3427db1dea5c78c20de3e') in 0.0043886 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000105 seconds.
-  path: Assets/StarSparrow/Materials/StarSparrow_White.mat
-  artifactKey: Guid(508a5c5900b3d654ebf40cf88ed14dbf) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/StarSparrow_White.mat using Guid(508a5c5900b3d654ebf40cf88ed14dbf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4670b183a21acd50348148a436655006') in 0.0503833 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/StarSparrow/Materials/StarSparrow_Grey.mat
-  artifactKey: Guid(dc60a1e64de33bb44979dad0c2529fa1) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/StarSparrow_Grey.mat using Guid(dc60a1e64de33bb44979dad0c2529fa1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '70408b41590127259656c07c4696300e') in 0.0436703 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000073 seconds.
-  path: Assets/StarSparrow/Materials/BonusContent/CloudsRed.mat
-  artifactKey: Guid(191ced9846689714398ed909c5e9284a) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/BonusContent/CloudsRed.mat using Guid(191ced9846689714398ed909c5e9284a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4c05ff3ab57493d20edc50d27978afe0') in 0.0249472 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Blue.mat
-  artifactKey: Guid(e1cac9f87fda27445ac6a54ade344d63) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Blue.mat using Guid(e1cac9f87fda27445ac6a54ade344d63) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7bdac00d7a9fdbf7107e54140976a5ac') in 0.027487 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/UniversalRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(5b703e006a338504cbf068ecf2a5ecf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(5b703e006a338504cbf068ecf2a5ecf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '818fa8b02a9316a6eee0fa5c2e202bde') in 0.0031677 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.825203 seconds.
-  path: Assets/StarSparrow/Materials/StarSparrow_Red.mat
-  artifactKey: Guid(3057f5a2b92dd3b47b45415db850c097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StarSparrow/Materials/StarSparrow_Red.mat using Guid(3057f5a2b92dd3b47b45415db850c097) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)
-=================================================================
-	Native Crash Reporting
-=================================================================
-Got a UNKNOWN while executing native code. This usually indicates
-a fatal error in the mono runtime or one of the native libraries 
-used by your application.
-=================================================================
-
-=================================================================
-	Managed Stacktrace:
-=================================================================
-=================================================================
-Crash!!!
-SymInit: Symbol-SearchPath: 'C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/Mono;.;C:\Users\joell\OneDrive\Documenten\J3Dez +\9 Devs\3 Games\AirParkour;C:\Users\joell\OneDrive\Documenten\J3Dez +\9 Devs\3 Games\AirParkour\Library\BurstCache\JIT;C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'joell'
-OS-Version: 10.0.0
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\Unity.exe:Unity.exe (00007FF64B170000), size: 299008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6000.0.60.57267
-C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFD08880000), size: 2514944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\Program Files\Norton\Suite\aswhook.dll:aswhook.dll (00007FFCD4DE0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.5.10994.0
-C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFD07580000), size: 823296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFD061C0000), size: 4169728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8655
-C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFD065F0000), size: 1863680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFD065C0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8655
-C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFD07550000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8328
-C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFD06090000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFD05BD0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFD05F40000), size: 1359872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\IMM32.DLL:IMM32.DLL (00007FFD074A0000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\Unity.dll:Unity.dll (00007FFC0CC10000), size: 87146496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6000.0.60.57267
-C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFD05C80000), size: 1540096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFD06840000), size: 745472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FFC39EF0000), size: 8019968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.7.0
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\s3tcompress.dll:s3tcompress.dll (00007FFC77C30000), size: 180224 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\etccompress.dll:etccompress.dll (00007FFC31410000), size: 5070848 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FFC684F0000), size: 1826816 (result: 0), SymType: '-deferred-', PDB: ''
-C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFD07AA0000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.26100.8246
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 5783552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.18.0.0
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\compress_bc7e.dll:compress_bc7e.dll (00007FFC3F350000), size: 1433600 (result: 0), SymType: '-deferred-', PDB: ''
-C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFD08610000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFD08020000), size: 696320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFD07880000), size: 1146880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFD086A0000), size: 1671168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FFC3BF30000), size: 1187840 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FFC79600000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2403.8001
-C:\WINDOWS\System32\combase.dll:combase.dll (00007FFD081A0000), size: 3682304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFCCC940000), size: 557056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.50.35710.0
-C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFD07B90000), size: 4747264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFCCDD30000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.50.35710.0
-C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFD06910000), size: 7880704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8655
-C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFCD4D50000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.50.35710.0
-C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFD05A00000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFD01E10000), size: 2494464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFD074E0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFD08530000), size: 888832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8655
-C:\WINDOWS\SYSTEM32\d3d12.dll:d3d12.dll (00007FFC50310000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFD02F90000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFD02E00000), size: 1286144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FFD05E00000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFD03F60000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
-C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFD043C0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8655
-C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFC74B60000), size: 1097728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFCFF400000), size: 1216512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFCF4A70000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.8521
-C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFC78040000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FFC30440000), size: 8990720 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.0.0.0
-C:\WINDOWS\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FFCF4EC0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1
-C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFD05970000), size: 385024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.3912
-C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFCF5E70000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\NativeProxyHelper.dll:NativeProxyHelper.dll (00007FFC3BD70000), size: 1789952 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FFC54380000), size: 499712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.0.0.0
-
-========== OUTPUTTING STACK TRACE ==================
-
-0x00007FFC0D9C0DBF (Unity) FileAccessor::Write
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
