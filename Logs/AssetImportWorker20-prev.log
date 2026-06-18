@@ -950,3 +950,11 @@ Memory consumption went from 124.9 MB to 121.9 MB.
 Total: 10.889800 ms (FindLiveObjects: 0.688600 ms CreateObjectMapping: 0.278300 ms MarkObjects: 7.765400 ms  DeleteObjects: 2.155800 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 22.218305 seconds.
+  path: Assets/Tree_Textures/normal_specular.png
+  artifactKey: Guid(5c847d876a123994f937f1fa7e68432b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures/normal_specular.png using Guid(5c847d876a123994f937f1fa7e68432b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '261dbaf3ce9467603295d085e3ed337f') in 0.0941039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+

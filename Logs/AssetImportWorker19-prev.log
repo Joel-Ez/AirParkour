@@ -1094,3 +1094,19 @@ Received Import Request.
 Start importing Assets/M1 - Scenes/Level 1.unity using Guid(c9c752ec4c5531646a4d929552f2e5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23c6242d4a1e3bf0299e670e9bf5629e') in 0.002153 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 4.916397 seconds.
+  path: Assets/Tree_Textures/diffuse.png
+  artifactKey: Guid(8de6a3247f6d36042bfbf6cc986914f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures/diffuse.png using Guid(8de6a3247f6d36042bfbf6cc986914f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b135190fbf0e9f9b37dc7ff61133587') in 0.0904931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.800472 seconds.
+  path: Assets/M4 - Prefabs/Avion Red.prefab
+  artifactKey: Guid(b607facbe8d734846a05f80cb2b4e98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/Avion Red.prefab using Guid(b607facbe8d734846a05f80cb2b4e98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5c0e67b1ca341ffa36768613c266d24') in 0.561527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
