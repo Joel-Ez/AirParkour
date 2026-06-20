@@ -257,14 +257,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacles:
-  - {fileID: 1274279239605668867, guid: c02f19e5aae6e6a478be18fe2b9f5872, type: 3}
-  - {fileID: 1274279239605668867, guid: c02f19e5aae6e6a478be18fe2b9f5872, type: 3}
-  - {fileID: 1274279239605668867, guid: c02f19e5aae6e6a478be18fe2b9f5872, type: 3}
-  - {fileID: 1274279239605668867, guid: c02f19e5aae6e6a478be18fe2b9f5872, type: 3}
-  - {fileID: 1274279239605668867, guid: c02f19e5aae6e6a478be18fe2b9f5872, type: 3}
-  SpawnTime: 1
-  SpawnRange: 10
-  SpawnDistance: 20
+  - {fileID: 6436777906827931685, guid: 07829e865bc5e9d4ba65bcbcda94243e, type: 3}
+  - {fileID: 2200258516031545295, guid: d823cce0782486d4da3300a29b7cfc9c, type: 3}
+  - {fileID: 2507130161750134169, guid: dbcdb4802e6efe644a89e54a06c2202d, type: 3}
+  - {fileID: 3080340065151153336, guid: 7d57791e18c1fbd4cbc17232078eae70, type: 3}
+  - {fileID: 7803615578154311335, guid: a72366153b4fd654fa8f593d75dc7cba, type: 3}
+  - {fileID: 7767164804757676463, guid: a4caa0a7c91bed8488961b68f19de160, type: 3}
+  - {fileID: 2268736619600201338, guid: 73b27b437591eba4fbc591a3503185aa, type: 3}
+  - {fileID: 7695574292183204994, guid: e54b27245b00e104491078581794535a, type: 3}
+  - {fileID: 3921697543588474969, guid: 5e1e4ef2a551f984ea91e1ed3f2d80a2, type: 3}
+  - {fileID: 4412519507557218722, guid: a5ff2ae8042c49844ac14d924817feb3, type: 3}
+  - {fileID: 455374793236884779, guid: 88314310cf3432d46947174996739fae, type: 3}
+  - {fileID: 6443106047067533326, guid: c90814276e8c5c044907b90fbebf899d, type: 3}
+  - {fileID: 1931113753610538547, guid: 82d4d9101b940b74db7a373078efb762, type: 3}
+  - {fileID: 7687057361835650640, guid: 1e207a59b9493814f8d8683962244779, type: 3}
+  - {fileID: 2549593665813615648, guid: 15c1edc8c1222484d9908d844c3e6fc6, type: 3}
+  SpawnTime: 0.3
+  SpawnDistance: 70
   player: {fileID: 2060049842}
 --- !u!4 &62849919
 Transform:
@@ -2383,7 +2392,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1349101481338766031, guid: b607facbe8d734846a05f80cb2b4e98d, type: 3}
       propertyPath: FlySpeed
-      value: 6
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 3370606845344981159, guid: b607facbe8d734846a05f80cb2b4e98d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4077,8 +4086,8 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1416759587}
+  - {fileID: 551738740}
   - {fileID: 489721910}
   - {fileID: 1382923904}
-  - {fileID: 470990318}
-  - {fileID: 551738740}
   - {fileID: 62849919}
+  - {fileID: 470990318}
