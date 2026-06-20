@@ -34,8 +34,8 @@ public class ObstacleSpawner : MonoBehaviour
         if (obstacles.Length == 0) return;
         
         int randomIndex = Random.Range(0, obstacles.Length);
-        float randomViewportX = Random.Range(0.1f, 0.9f);
-        float randomViewportY = Random.Range(0.1f, 0.9f);
+        float randomViewportX = (Random.Range(0.1f, 0.9f) + Random.Range(0.1f, 0.9f)) / 2f;
+        float randomViewportY = (Random.Range(0.1f, 0.9f) + Random.Range(0.1f, 0.9f)) / 2f;
 
         Vector3 viewportPoint = new Vector3(randomViewportX, randomViewportY, SpawnDistance);
         Vector3 spawnPos = mainCamera.ViewportToWorldPoint(viewportPoint);
