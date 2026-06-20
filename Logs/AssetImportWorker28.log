@@ -393,3 +393,131 @@ Received Import Request.
 Start importing Assets/M4 - Prefabs/obstacles/Plate_white.prefab using Guid(a5ff2ae8042c49844ac14d924817feb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b478798e6e7267d1d3d837f443bca680') in 0.133029 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
 
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.058 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.923 seconds
+Domain Reload Profiling: 1981ms
+	BeginReloadAssembly (378ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (41ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (78ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (536ms)
+		LoadAssemblies (545ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (165ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (130ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (924ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (662ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (180ms)
+			ProcessInitializeOnLoadAttributes (334ms)
+			ProcessInitializeOnLoadMethodAttributes (115ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (34ms)
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3583 unused Assets / (3.3 MB). Loaded Objects now: 4337.
+Memory consumption went from 130.2 MB to 126.9 MB.
+Total: 10.519200 ms (FindLiveObjects: 0.761700 ms CreateObjectMapping: 0.708300 ms MarkObjects: 6.854500 ms  DeleteObjects: 2.192400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 370.370621 seconds.
+  path: Assets/M4 - Prefabs/obstacles/cliff_basis.prefab
+  artifactKey: Guid(07829e865bc5e9d4ba65bcbcda94243e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/cliff_basis.prefab using Guid(07829e865bc5e9d4ba65bcbcda94243e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85e8bd56883df0473d3c424aca1c92f1') in 0.9606792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Plate_desert.prefab
+  artifactKey: Guid(73b27b437591eba4fbc591a3503185aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Plate_desert.prefab using Guid(73b27b437591eba4fbc591a3503185aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '977221a40de4e520edc0a02a2ca43d0f') in 0.1198998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Rock_basic.prefab
+  artifactKey: Guid(88314310cf3432d46947174996739fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Rock_basic.prefab using Guid(88314310cf3432d46947174996739fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c2ab7c67433febe31113dbed632328c') in 0.0943393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Plate_basic.prefab
+  artifactKey: Guid(a4caa0a7c91bed8488961b68f19de160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Plate_basic.prefab using Guid(a4caa0a7c91bed8488961b68f19de160) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aac5a1694d09c8bdbea3c784e9734347') in 0.0909693 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Plate_infernal.prefab
+  artifactKey: Guid(5e1e4ef2a551f984ea91e1ed3f2d80a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Plate_infernal.prefab using Guid(5e1e4ef2a551f984ea91e1ed3f2d80a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b485d6542f35f61b0c58c576a78c22f0') in 0.1188246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Cliff_white.prefab
+  artifactKey: Guid(a72366153b4fd654fa8f593d75dc7cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Cliff_white.prefab using Guid(a72366153b4fd654fa8f593d75dc7cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '040916b12ea5a705d11383b8a3730e1d') in 0.092034 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Cliff_forest.prefab
+  artifactKey: Guid(dbcdb4802e6efe644a89e54a06c2202d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Cliff_forest.prefab using Guid(dbcdb4802e6efe644a89e54a06c2202d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d92e0fc1b9c987b97f2f120084149c5') in 0.0913959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/M4 - Prefabs/obstacles/Plate_white.prefab
+  artifactKey: Guid(a5ff2ae8042c49844ac14d924817feb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/M4 - Prefabs/obstacles/Plate_white.prefab using Guid(a5ff2ae8042c49844ac14d924817feb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '030bed0a072462136dbedbacce2f3d0e') in 0.0979066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -85,8 +85,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 878c84e8e33ed854e8e5fb873a868ce0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotar: 1
-  velocidadRotacion: 100
-  moverLateral: 1
-  velocidadMovimiento: 2
-  amplitudMovimiento: 3
+  rotate: 1
+  rotateSpeed: 100
+  zigzag: 1
+  moveSpeed: 1
+  moveRange: 5
