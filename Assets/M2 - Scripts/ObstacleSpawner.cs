@@ -5,16 +5,21 @@ public class ObstacleSpawner : MonoBehaviour
     [Header("AccelerationEvent")]
     public GameObject[] obstacles;
     public float SpawnTime = 1f;
-    public float SpawnRange = 10f;
     public float SpawnDistance = 50f;
 
     public Transform player;
 
+    private Camera mainCamera;
     private float obstacleTimer;
+
+    void Start()
+    {
+        mainCamera = Camera.main;
+    }
 
     void Update()
     {
-        if (player == null) return;
+        if (player == null || mainCamera == null) return;
 
         obstacleTimer += Time.deltaTime;
         if (obstacleTimer >= SpawnTime)
@@ -29,14 +34,17 @@ public class ObstacleSpawner : MonoBehaviour
         if (obstacles.Length == 0) return;
         
         int randomIndex = Random.Range(0, obstacles.Length);
-        float randomRangeX = Random.Range(-SpawnRange, SpawnRange);
-        float randomRangeY = Random.Range(-SpawnRange, SpawnRange);
+        float randomViewportX = Random.Range(0.1f, 0.9f);
+        float randomViewportY = Random.Range(0.1f, 0.9f);
 
-        Vector3 spawnPos = new Vector3(
-           player.position.x + randomRangeX,
-           player.position.y + randomRangeY,
-           player.position.z + SpawnDistance);
+        Vector3 viewportPoint = new Vector3(randomViewportX, randomViewportY, SpawnDistance);
+        Vector3 spawnPos = mainCamera.ViewportToWorldPoint(viewportPoint);
 
-        Instantiate(obstacles[randomIndex], spawnPos, Quaternion.identity);
+        GameObject newObstacle = Instantiate(obstacles[randomIndex], spawnPos, Quaternion.identity);
+
+        if (!newObstacle.GetComponent<DestroyOnExit>())
+        {
+            newObstacle.AddComponent<DestroyOnExit>();
+        }
     }
 }
